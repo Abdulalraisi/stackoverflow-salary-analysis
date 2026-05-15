@@ -12,7 +12,7 @@ The goal of this project is to analyze Stack Overflow Developer Survey data to u
 
 ## Files in the Repository
 - `stackoverflow_salary_analysis.ipynb`: Jupyter Notebook containing the full analysis, visualizations, machine learning model, evaluation, and predictive scenario.
-- `results.csv`: Stack Overflow Developer Survey dataset.
+- `stackoverflow_cleaned_salary_data.csv`: Cleaned version of the Stack Overflow survey data used for this analysis.
 - `schema.csv`: Data dictionary explaining the survey columns.
 - `README.md`: Project overview and summary.
 
